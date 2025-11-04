@@ -1,0 +1,9 @@
+.industrial-click-industrial-click {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 40px;
+  display: flex;
+  opacity: 0;
+  position: relative;
+  align-items: flex-start;
+}

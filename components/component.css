@@ -1,0 +1,20 @@
+.component-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: #787878;
+  border-style: dashed;
+  border-width: 2px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.componentroot-class-name {
+  opacity: 0;
+}
+ 
+@media(max-width: 479px) {
+  .componentroot-class-name {
+    opacity: 0;
+  }
+}

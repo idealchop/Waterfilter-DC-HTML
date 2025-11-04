@@ -1,0 +1,8 @@
+.residentials-container {
+  flex: 0 0 auto;
+  width: 130px;
+  height: 5px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}

@@ -1,0 +1,15 @@
+.commmercial-click-commmercial-click {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 79px;
+  display: flex;
+  opacity: 0;
+  position: relative;
+  align-items: flex-start;
+}
+ 
+@media(max-width: 479px) {
+  .commmercial-click-commmercial-click {
+    height: 16px;
+  }
+}
