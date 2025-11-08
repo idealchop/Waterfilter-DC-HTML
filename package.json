@@ -10,7 +10,7 @@
   },
   "scripts": {
     "dev": "parcel index.html",
-    "build": "next build",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "devDependencies": {
